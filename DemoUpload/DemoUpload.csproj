@@ -276,6 +276,8 @@
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
     <Content Include="Views\Brand\SaveImage.cshtml" />
     <Content Include="Views\Brand\Index.cshtml" />
+    <Content Include="Views\Home\AddImage.cshtml" />
+    <Content Include="Views\Home\ViewImage.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
